@@ -11,9 +11,9 @@ This project is a small Python-based port scanner
 - Run the script and look at the Terminal
 
 ## Scope & Disclaimer
-This tool is intende for educational and defensive security testin only.
-Scan only your owne system or have the explicit permission to test.
+This tool is intende for educational and defensive security testing only.
+Scan only your own system or have the explicit permission to test.
 
-## Wy this project
+## Why this project
 The goal of this project is to undderstand networking basics and how attackers
 and defenders discover exposed sevices
